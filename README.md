@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Axmadjon</h1>
 <h3 align="center">Im a beginer frontend developer</h3>
+<img src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952yv489qzq48t8ay6cpuzv4m64h1hndrqhuis4n4qd&ep=v1_gifs_search&rid=200w.gif&ct=g" alt =""/>
 
 - 🌱 I’m currently learning **Java script and pyhton more**
 
