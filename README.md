@@ -23,14 +23,14 @@
   <a href="https://instagram.com/azizovic_.a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.tiktok.com/@azizovic_a1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" alt="TikTok" width="40" height="40"/>
+  <a href="https://www.tiktok.com/@your-tiktok-username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.svg" alt="TikTok" width="40" height="40"/>
   </a>
-  <a href="https://discord.gg/ha1zaki" target="_blank">
+  <a href="https://discord.gg/your-discord-server" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
   </a>
-  <a href="https://t.me/ha1zaki" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" width="40" height="40"/>
+  <a href="https://t.me/your-telegram-username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
   </a>
 </p>
 
