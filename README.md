@@ -3,7 +3,7 @@
 <h3 align="center">I'm a beginner frontend developer</h3>
 
 <div align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_LINK.png" alt="Axmadjon's Photo" width="300px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=CnRVzwRdVIeSExy5yqTsgcM1fIiaB_7ebywnXjOeauo" alt="Axmadjon's Photo" width="300px"/>
 </div>
 
 ---
