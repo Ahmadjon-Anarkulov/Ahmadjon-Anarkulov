@@ -18,13 +18,13 @@
 
 ---
 
-### Connect with me:
+
 <p align="left">
   <a href="https://instagram.com/azizovic_.a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.tiktok.com/@your-tiktok-username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.svg" alt="TikTok" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="TikTok" width="40" height="40"/>
   </a>
   <a href="https://discord.gg/your-discord-server" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### Languages and Tools:
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
