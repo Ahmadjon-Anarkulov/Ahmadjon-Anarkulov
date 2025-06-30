@@ -1,4 +1,5 @@
-1<h1 align="center">Hi 👋, I'm Axmadjon</h1>
+
+<h1 align="center">Hi 👋, I'm Axmadjon</h1>
 
 <h3 align="center">I'm a beginner frontend developer</h3>
 
@@ -24,7 +25,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.tiktok.com/@azizovic_a1" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon
+      .com/512/3046/3046122.png" alt="TikTok" width="40" height="40"/>
   </a>
   <a href="https://discord.gg/ha1zaki" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
