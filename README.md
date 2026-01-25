@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Ahmadjon-Anarkulov).
 - 📫 How to reach me: **zxcamanti@gmail.com**
 - 🌍 I speak three languages: **English**, **Uzbek**, and **Russian**.
-- 💬 Ask me about anything related to **Frontend Development** or **Web Technologies**.
+- 💬 Ask me about anything related to **Frontend Development** or **Web Technologies** and **Creating Telegram Bots**.
 - 🎯 Goals for 2025: **Learn React.js** and **Build 10+ real-world projects!**
 - 🧠 I’m passionate about continuously improving my coding skills and learning new technologies.
 
