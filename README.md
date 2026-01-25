@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **JavaScript**, **HTML/CSS**, **Bootstrap**, and **Python**.
+- 🌱 I’m currently learning **JavaScript**, **HTML/CSS**, **Bootstrap**, and **Java**.
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Ahmadjon-Anarkulov).
 - 📫 How to reach me: **zxcamanti@gmail.com**
 - 🌍 I speak three languages: **English**, **Uzbek**, and **Russian**.
