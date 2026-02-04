@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Axmadjon</h1>
 
 <h3 align="center">I'm a beginner frontend developer</h3>
-<h1>I am interested in playing basketball with local team</h1>
-<h1>I am interested in playing basketball with local team</h1>
-<h1>I am interested in playing basketball with local team</h1>
+
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=CnRVzwRdVIeSExy5yqTsgcM1fIiaB_7ebywnXjOeauo" alt="Axmadjon's Photo" width="300px"/>
